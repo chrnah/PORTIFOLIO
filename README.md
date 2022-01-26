@@ -1,4 +1,5 @@
 # PORTIFOLIO
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/chrnah/PORTIFOLIO/blob/main/LICENSE)
 
 ## Layout
 ![PORTIFOLIO](https://github.com/chrnah/PORTIFOLIO/blob/main/port1.png)
