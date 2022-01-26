@@ -11,3 +11,8 @@
 - HTML
 - CSS
 - JS
+
+# Autor 
+Christian da Silva
+
+https://www.linkedin.com/in/christian-silva-02545863/
