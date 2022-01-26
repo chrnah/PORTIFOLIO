@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Portifolio e um projeto desenvolvido em front-end afim de mostrar sua apresentacão "seu cartao prospectivo", onde consiste em apresentar seu trabalho e informacões sobre os projetos que tem como objetivo alcançar organizações afim de trazer melhorias em desenvolvimento web.
+Portifolio e um projeto desenvolvido em front-end afim de mostrar sua apresentacão que e totalmente responsiva e animada, onde consiste em apresentar seu trabalho e informacões sobre os projetos que tem como objetivo alcançar organizações afim de trazer melhorias em desenvolvimento web.
 
 ## Layout
 ![PORTIFOLIO](https://github.com/chrnah/PORTIFOLIO/blob/main/port1.png)
