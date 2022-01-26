@@ -12,7 +12,7 @@ Portifolio e um projeto desenvolvido em front-end afim de mostrar sua apresentac
 
 
 # Tecnologias usadas 
-# Front-end
+## Front-end
 - HTML
 - CSS
 - JS
